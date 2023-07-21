@@ -7,3 +7,9 @@
   <li>Spotify Revenue : By Reading Financial Earnings of Spotify</li>
   <li>Spotify Tracks : By using Spotify API</li>
 </ol>
+
+<p>Marvel Comics</p>
+<ol>
+  <li> Marvel Characters name : From Marvel.Com</li>
+  <li>Marvel Characters appearance in comics : Using Marvel API</li>
+</ol>
