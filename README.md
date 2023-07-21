@@ -13,3 +13,29 @@
   <li> Marvel Characters name : From Marvel.Com</li>
   <li>Marvel Characters appearance in comics : Using Marvel API</li>
 </ol>
+
+<p>Netflix Financials</p>
+<ol>
+  <li>Netflix Revenue and Users :By Reading Financial Earnings of Netflix</li>
+</ol>
+
+<p>Paytm Financials</p>
+<ol>
+  <li>Paytm Revenue and Transactions :By Reading Financial Earnings of Paytm</li>
+</ol>
+
+<p>Youtube</p>
+<ol>
+  <li>Youtube Ads Revenue:By Reading Financial Earnings of Netflix</li>
+</ol>
+
+<p>data_centers_tech_companies</p>
+<ol>
+  <li>Data Centers : Collected Using ChatGPT Prompt.</li>
+</ol>
+
+<p>PespiCo Products</p>
+<ol>
+  <li>PepsiCo Products : Collected Using ChatGPT Prompt.</li>
+</ol>
+
