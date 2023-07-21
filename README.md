@@ -34,6 +34,11 @@
   <li>Data Centers : Collected Using ChatGPT Prompt.</li>
 </ol>
 
+<p>Disney</p>
+<ol>
+  <li>Disney revenue : By Reading Financial Earnings of Disney</li>
+</ol>
+
 <p>PespiCo Products</p>
 <ol>
   <li>PepsiCo Products : Collected Using ChatGPT Prompt.</li>
